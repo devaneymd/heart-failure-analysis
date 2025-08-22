@@ -1,0 +1,69 @@
+\begin{thebibliography}{}
+
+\bibitem[hea, 2020]{heart_failure_clinical_records_519}
+ (2020).
+\newblock {Heart Failure Clinical Records}.
+\newblock UCI Machine Learning Repository.
+\newblock {DOI}: https://doi.org/10.24432/C5Z89R.
+
+\bibitem[Anand and Gupta, 2018]{doi:10.1161/CIRCULATIONAHA.118.030099}
+Anand, I.~S. and Gupta, P. (2018).
+\newblock Anemia and iron deficiency in heart failure.
+\newblock {\em Circulation}, 138(1):80--98.
+
+\bibitem[Aujla et~al., 2024]{cpkArticle}
+Aujla, R.~S., Zubair, M., and Patel, R. (2024).
+\newblock Creatinine phosphokinase.
+\newblock {\em StatPearls}.
+
+\bibitem[Bruin, 2018]{rf}
+Bruin, E. (2018).
+\newblock House prices: Lasso, xgboost, and a detailed eda.
+
+\bibitem[CDC, 2024]{cdcAboutHeart}
+CDC (2024).
+\newblock {A}bout {H}eart {F}ailure --- cdc.gov.
+
+\bibitem[Chicco and Jurman, 2020]{Chicco2020MachineLC}
+Chicco, D. and Jurman, G. (2020).
+\newblock Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone.
+\newblock {\em BMC Medical Informatics and Decision Making}, 20.
+
+\bibitem[Kenny and Abel, 2019]{doi:10.1161/CIRCRESAHA.118.311371}
+Kenny, H.~C. and Abel, E.~D. (2019).
+\newblock Heart failure in type 2 diabetes mellitus.
+\newblock {\em Circulation Research}, 124(1):121--141.
+
+\bibitem[Martin et~al., 2024]{hf_info}
+Martin, S.~S., Aday, A.~W., Almarzooq, Z.~I., Anderson, C.~A., Arora, P., Avery, C.~L., Baker-Smith, C.~M., Gibbs, B.~B., Beaton, A.~Z., Boehme, A.~K., Commodore-Mensah, Y., Currie, M.~E., Elkind, M.~S., Evenson, K.~R., Generoso, G., Heard, D.~G., Hiremath, S., Johansen, M.~C., Kalani, R., Kazi, D.~S., Ko, D., Liu, J., Magnani, J.~W., Michos, E.~D., Mussolino, M.~E., Navaneethan, S.~D., Parikh, N.~I., Perman, S.~M., Poudel, R., Rezk-Hanna, M., Roth, G.~A., Shah, N.~S., St-Onge, M.-P., Thacker, E.~L., Tsao, C.~W., Urbut, S.~M., Spall, H. G.~V., Voeks, J.~H., Wang, N.-Y., Wong, N.~D., Wong, S.~S., Yaffe, K., Palaniappan, L.~P., on~behalf of the American Heart Association Council~on Epidemiology, Committee, P.~S., and Subcommittee, S.~S. (2024).
+\newblock 2024 heart disease and stroke statistics: A report of us and global data from the american heart association.
+\newblock {\em Circulation}, 149(8):e347--e913.
+
+\bibitem[NICE, 2018]{nihChronicHeart}
+NICE (2018).
+\newblock Chronic heart failure in adults.
+\newblock pages e26--e28.
+
+\bibitem[Penn, 2022]{ejectionFraction}
+Penn (2022).
+\newblock Ejection fraction: What the numbers mean.
+
+\bibitem[Rochester, 2025]{creatinine}
+Rochester (2025).
+\newblock Creatinine (blood).
+
+\bibitem[Rondon and Badireddy, 2023]{sodium}
+Rondon, H. and Badireddy, M. (2023).
+\newblock Hyponatremia.
+\newblock {\em StatPearls}.
+
+\bibitem[Tackling and Borhade, 2023]{hbp}
+Tackling, G. and Borhade, M.~B. (2023).
+\newblock Hypertensive heart disease.
+\newblock {\em StatPearl}.
+
+\bibitem[Williams, 2025]{platelets}
+Williams, M.~S. (2025).
+\newblock What are platelets and why are they important?
+
+\end{thebibliography}

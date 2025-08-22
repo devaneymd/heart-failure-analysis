@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+The style file: apalike.bst
+Database file #1: bibliography.bib
+Warning--to sort, need author or key in heart_failure_clinical_records_519
+Warning--empty journal in nihChronicHeart
+You've used 14 entries,
+            1935 wiz_defined-function locations,
+            542 strings with 6205 characters,
+and the built_in function-call counts, 5662 in all, are:
+= -- 515
+> -- 358
+< -- 12
++ -- 130
+- -- 130
+* -- 498
+:= -- 1046
+add.period$ -- 38
+call.type$ -- 14
+change.case$ -- 135
+chr.to.int$ -- 14
+cite$ -- 17
+duplicate$ -- 177
+empty$ -- 299
+format.name$ -- 153
+if$ -- 1051
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 69
+num.names$ -- 39
+pop$ -- 111
+preamble$ -- 1
+purify$ -- 135
+quote$ -- 0
+skip$ -- 152
+stack$ -- 0
+substring$ -- 260
+swap$ -- 16
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 2
+while$ -- 31
+width$ -- 0
+write$ -- 165
+(There were 2 warnings)
