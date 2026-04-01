@@ -1,6 +1,17 @@
 # Abstract
 Heart failure is an increasingly common and potentially fatal condition that occurs when a person's heart is unable to pump or fill with enough blood to support the body. In this study, I examined a data set of 300 heart failure patients and their associated lifestyle and biological data. The purpose of this study is to 1: determine the biomarkers with the strongest predictive power and 2: create a robust predictive model to determine patient survivability. First, I performed an exploratory data analysis of the patient data. Using these insights, I trained several classifiers to determine survivability. Through this process, I find ejection fraction, serum creatinine, and age are the 3 most effective predictors of a heart failure patient's survival. 
 
+This project exists to train, evaluate, and compare 4 (logistic regression, random forest, svm, XGboost) machine learning models.
+
+# Running the code
+```
+git clone git@github.com:devaneymd/heart-failure-analysis.git
+cd heart-failure-analysis
+uv sync
+uv run marimo edit src/modeling.py
+```
+
+
 Created using:
 
 dependencies = [
